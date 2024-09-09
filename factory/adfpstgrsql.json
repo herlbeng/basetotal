@@ -1,0 +1,9 @@
+{
+	"name": "adfpstgrsql",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e434613-ed41-491b-b5ba-0ee03af55631",
+		"tenantId": "a17f6243-d19f-49d4-ac6b-87265166eb25"
+	}
+}
